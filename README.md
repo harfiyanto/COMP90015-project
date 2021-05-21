@@ -4,5 +4,5 @@ University of Melbourne
 
 ### Author:
 
-**Harfiyanto Santoso*
+**Harfiyanto Santoso**
 harfiyantos@student.unimelb.edu.au
