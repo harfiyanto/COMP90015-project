@@ -1,4 +1,4 @@
-# COMP90015-project
+# COMP90015 Distributed System Projects
 Assignment 1 &amp; 2 Projects for COMP90015 Distributed System (Semester 1, 2020)
 University of Melbourne
 
